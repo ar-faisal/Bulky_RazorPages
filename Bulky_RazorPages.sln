@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bulky_RazorPages", "Bulky_RazorPages\Bulky_RazorPages.csproj", "{730D1883-03A5-4C09-BFBB-17C547764AE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{239EDAC8-98C6-40D8-9819-F4DA2B2D6ED8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BOL", "BOL\BOL.csproj", "{94B3C774-31A5-49C7-94FC-AF4DD41F5633}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{730D1883-03A5-4C09-BFBB-17C547764AE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{730D1883-03A5-4C09-BFBB-17C547764AE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{730D1883-03A5-4C09-BFBB-17C547764AE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{730D1883-03A5-4C09-BFBB-17C547764AE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{239EDAC8-98C6-40D8-9819-F4DA2B2D6ED8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{239EDAC8-98C6-40D8-9819-F4DA2B2D6ED8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{239EDAC8-98C6-40D8-9819-F4DA2B2D6ED8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{239EDAC8-98C6-40D8-9819-F4DA2B2D6ED8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94B3C774-31A5-49C7-94FC-AF4DD41F5633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94B3C774-31A5-49C7-94FC-AF4DD41F5633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94B3C774-31A5-49C7-94FC-AF4DD41F5633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94B3C774-31A5-49C7-94FC-AF4DD41F5633}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {241A6A10-B532-4360-B1C0-9A071B2879EB}
+	EndGlobalSection
+EndGlobal
